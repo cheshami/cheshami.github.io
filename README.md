@@ -14,7 +14,7 @@
 |----------------------|----------|----------|-----------------|
 | Agahi Mashhad | 3 months | Programmer | Project-based |
 | Astan Quds Razavi | 7 months | Programmer | Project-based |
-| Amadegi IT Co. | Unspecified | Technical Manager | Full-time |
+| Adak Free Way IT Co. | 7 Years | CEO | Full-time |
 
 ---
 
@@ -27,7 +27,7 @@
 | Bachelor's Degree | Computer | BCA | - | St. Philominas College | Mysore, India |
 
 **Technical & Vocational Certificates:**  
-C, Pascal, FoxPro, Oracle
+C++, Pascal, FoxPro, Oracle
 
 ---
 
@@ -43,11 +43,11 @@ C, Pascal, FoxPro, Oracle
 |-------|--------|
 | Good | C, C++, C#, Visual C, Java, Python |
 | Good | PHP, JavaScript, HTML, XML, CSS, jQuery |
-| Average | ECMAScript 5/6, Node.js, React JS, React Native, Angular, Flutter |
+| Average | ECMAScript 5/6, Node.js, React JS, React Native, Flutter |
 | Good | WHMCS, Joomla, WordPress, PrestaShop (Writing Extensions) |
 | Average | cPanel, Plex, Kloxo, Webmin |
-| Average | Virtualization: OpenVZ, KVM |
-| Good | Git |
+| Average | Virtualization: ESXi, OpenVZ, KVM |
+| Good | Git, Github | 
 
 ### Security & Penetration Testing
 - Vulnerability Analysis  
@@ -63,7 +63,7 @@ C, Pascal, FoxPro, Oracle
 - Mashhad Mobile Phone Union  
 - Pishtaz Motor  
 - Shahd-e Miveh Iran  
-- Malik Endowment Organization  
+- Malek Endowment Organization  
 - HP Representative in Mashhad  
 - Acidana Agency  
 
