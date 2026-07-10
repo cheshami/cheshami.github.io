@@ -39,8 +39,8 @@ C++, Pascal, FoxPro, Oracle
 - **Speaking:** Good  
 
 ### Technical Skills
-| Level | Skills |
-|-------|--------|
+| Level |           Skills       |
+|-------|------------------------|
 | Good | C, C++, C#, Visual C, Java, Python |
 | Good | PHP, JavaScript, HTML, XML, CSS, jQuery |
 | Average | ECMAScript 5/6, Node.js, React JS, React Native, Flutter |
