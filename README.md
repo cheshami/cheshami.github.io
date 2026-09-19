@@ -65,7 +65,7 @@ C++, Pascal, FoxPro, Oracle
 - Shahd-e Miveh Iran  
 - Malek Endowment Organization  
 - HP Representative in Mashhad  
-- Acidana Agency  
+- PazhSeir, Espadana,... Agency  
 
 ---
 
