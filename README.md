@@ -41,12 +41,12 @@ C++, Pascal, FoxPro, Oracle
 ### Technical Skills
 | Level |           Skills       |
 |-------|------------------------|
-| Good | C, C++, C#, Visual C, Java, Python |
-| Good | PHP, JavaScript, HTML, XML, CSS, jQuery |
-| Average | ECMAScript 5/6, Node.js, React JS, React Native, Flutter |
-| Good | WHMCS, Joomla, WordPress, PrestaShop (Writing Extensions) |
+| Good | C, C++, C#, Python |
+| Good | PHP, JavaScript, jQuery |
+| Average | Node.js, React, Flutter |
+| Good | WHMCS, Joomla, WordPress |
 | Average | cPanel, Plex, Kloxo, Webmin |
-| Average | Virtualization: ESXi, OpenVZ, KVM |
+| Average | ESXi, OpenVZ, KVM |
 | Good | Git, Github | 
 
 ### Security & Penetration Testing
